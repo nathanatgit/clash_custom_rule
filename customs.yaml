@@ -1,7 +1,7 @@
 payload:
   - PROCESS-NAME,HikStorage
   - PROCESS-NAME,海康私有网盘
-  - PROCESS-NAME,IdleDragons
+  - PROCESS-NAME,IdleDragons.exe
   - PROCESS-NAME,EpicGamesLauncher
   - PROCESS-NAME,WinStore.App,no-resolve
   - PROCESS-NAME,DoSvc,no-resolve
