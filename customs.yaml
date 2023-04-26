@@ -1,14 +1,4 @@
 payload:
-  - PROCESS-NAME,HikStorage
-  - PROCESS-NAME,海康私有网盘
-  - PROCESS-NAME,IdleDragons.exe
-  - PROCESS-NAME,EpicGamesLauncher
-  - PROCESS-NAME,WinStore.App,no-resolve
-  - PROCESS-NAME,DoSvc,no-resolve
-  - PROCESS-NAME,wuauserv,no-resolve
-  - PROCESS-NAME,DownloadService
-  - PROCESS-NAME,qBittorrent
-  - PROCESS-NAME,OfficeClickToRun
   - DOMAIN-SUFFIX,ieee.org
   - DOMAIN-SUFFIX,springer.com
   - DOMAIN-SUFFIX,sciencedirect.com
@@ -31,4 +21,3 @@ payload:
   - DOMAIN-SUFFIX,jstor.org
   - DOMAIN-SUFFIX,t.uc.cn
   - DOMAIN-SUFFIX,coolapkmarket.com
-  - DOMAIN-SUFFIX,sbaliyun.com
