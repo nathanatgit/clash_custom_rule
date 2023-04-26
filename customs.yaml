@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,clarivate.com
   - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,engineeringvillage.com
   - DOMAIN-SUFFIX,edu.cn
   - DOMAIN-SUFFIX,webofknowledge.com
   - DOMAIN-SUFFIX,acm.org
