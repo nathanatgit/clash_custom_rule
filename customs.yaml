@@ -16,3 +16,4 @@ payload:
   - DOMAIN-SUFFIX,coolapkmarket.com
   - DOMAIN-SUFFIX,t.uc.cn
   - DOMAIN-SUFFIX,ieee.org
+  - PROCESS-NAME,PhoneExperienceHost.exe
