@@ -17,4 +17,4 @@ payload:
   - DOMAIN-SUFFIX,t.uc.cn
   - DOMAIN-SUFFIX,ieee.org
   - PROCESS-NAME,PhoneExperienceHost.exe
-  - DOMAIN, tjueducn.sharepoint.com
+  - DOMAIN-SUFFIX,sharepoint.com
