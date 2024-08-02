@@ -19,3 +19,4 @@ payload:
   - PROCESS-NAME,PhoneExperienceHost.exe
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,tjupt.org
+  - PROCESS-NAME,League of Legends.exe
