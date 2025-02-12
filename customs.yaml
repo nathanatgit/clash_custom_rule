@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,tjupt.org
   - PROCESS-NAME,League of Legends.exe
   - PROCESS-NAME,WeChat.exe
+  - PROCESS-NAME,mstcs.exe
+  - PROCESS-NAME,AnyDesk.exe
