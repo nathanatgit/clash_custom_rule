@@ -15,3 +15,4 @@ payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,scholar.google.com
+  - DOMAIN-SUFFIX,reddit.com
