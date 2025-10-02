@@ -1,18 +1,22 @@
 payload:
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,googleusercontent.com
-  - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-SUFFIX,googleapis.com
-  - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,x.ai
-  - DOMAIN-SUFFIX,perplexity.ai
-  - DOMAIN-SUFFIX,poe.com
-  - DOMAIN-SUFFIX,pi.ai
+  # AI Services
+  - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,character.ai
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
-  - DOMAIN-SUFFIX,ai.com
-  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,pi.ai
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,x.ai
+
+  # Google Services
+  - DOMAIN-KEYWORD,googleapis # Catches googleapis.com, googleapis.cn, etc.
+  - DOMAIN-KEYWORD,googleusercontent
+  - DOMAIN-KEYWORD,googlevideo
+  - DOMAIN-KEYWORD,gstatic
   - DOMAIN-SUFFIX,scholar.google.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com # xn--ngstr-lra8j.com -> ångströ.com 
+
+  # Other
   - DOMAIN-SUFFIX,reddit.com
