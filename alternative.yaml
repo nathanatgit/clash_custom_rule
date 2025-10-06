@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,character.ai
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pi.ai
@@ -16,6 +17,7 @@ payload:
   - DOMAIN-KEYWORD,googlevideo
   - DOMAIN-KEYWORD,gstatic
   - DOMAIN-SUFFIX,scholar.google.com
+  - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com # xn--ngstr-lra8j.com -> ångströ.com 
 
   # Other
