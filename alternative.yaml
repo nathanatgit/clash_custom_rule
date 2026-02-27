@@ -20,5 +20,10 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com # xn--ngstr-lra8j.com -> ångströ.com 
 
-  # Other
+  # Other Domains that Actively Block Data Centers
   - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,grindr.com
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,tinder.com
+  - DOMAIN-SUFFIX,okcupid.com
+  - DOMAIN-SUFFIX,match.com
