@@ -18,6 +18,8 @@ payload:
   - DOMAIN-KEYWORD,gstatic
   - DOMAIN-SUFFIX,scholar.google.com
   - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,ai.google.dev
+  - DOMAIN-SUFFIX,aistudio.google.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com # xn--ngstr-lra8j.com -> ångströ.com 
 
   # Other Domains that Actively Block Data Centers
