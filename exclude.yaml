@@ -21,6 +21,7 @@ payload:
   - PROCESS-NAME,PhoneExperienceHost.exe
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,tjupt.org
+  - DOMAIN-SUFFIX,local
   - PROCESS-NAME,League of Legends.exe
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,WeChatAppEx.exe
