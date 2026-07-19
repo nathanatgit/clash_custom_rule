@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,local
   - PROCESS-NAME,League of Legends.exe
   - PROCESS-NAME,Weixin.exe
+  - PROCESS-NAME,douyin.exe
   - PROCESS-NAME,WeChatAppEx.exe
   - PROCESS-NAME,mstcs.exe
   - PROCESS-NAME,AnyDesk.exe
