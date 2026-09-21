@@ -1,0 +1,4 @@
+payload:
+  - PROCESS-NAME,CCXProcess.exe
+  - PROCESS-NAME,AdobeIPCBroker.exe
+  - PROCESS-NAME,Photoshop.exe
