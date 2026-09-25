@@ -24,6 +24,8 @@ payload:
   - DOMAIN-SUFFIX,local
   - PROCESS-NAME,League of Legends.exe
   - PROCESS-NAME,LeagueClient.exe
+  - PROCESS-NAME,LeagueClientUx.exe
+  - PROCESS-NAME,LeagueClientUxRender.exe
   - PROCESS-NAME,RiotClientServices.exe
   - PROCESS-NAME,Weixin.exe
   - PROCESS-NAME,douyin.exe
